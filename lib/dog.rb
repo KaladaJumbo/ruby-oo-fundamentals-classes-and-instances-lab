@@ -1,4 +1,4 @@
-class dog 
+class Dog 
 
     #intentionally left blank
 

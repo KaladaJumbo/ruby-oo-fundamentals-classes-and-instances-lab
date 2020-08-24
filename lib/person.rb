@@ -1,4 +1,4 @@
-class person 
+class Person 
 
     #intentionally left blank
 
